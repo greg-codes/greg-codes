@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Link to [my dissertation](https://github.com/greg-codes/dissertation), titled "Application of Attosecond Techniques to Condensed Matter Systems".
+
 ### My repos
 
 [Gascalc](https://github.com/greg-codes/GasCalc) contains gas flow and phase matching calculations for high harmonic generation.
