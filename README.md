@@ -18,3 +18,5 @@ Link to [my dissertation](https://github.com/greg-codes/dissertation), titled "A
 ### My repos
 
 [Gascalc](https://github.com/greg-codes/GasCalc) contains gas flow and phase matching calculations for high harmonic generation.
+
+[Car Crash Analysis](https://github.com/greg-codes/CarCrash_analysis) performs univariate time series analysis on a multi-year car crash dataset.
