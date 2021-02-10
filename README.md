@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Link to [my dissertation](https://github.com/greg-codes/dissertation), titled "Application of Attosecond Techniques to Condensed Matter Systems".
 
-### My repos
-
-[Gascalc](https://github.com/greg-codes/GasCalc) contains gas flow and phase matching calculations for high harmonic generation.
+### Data science
 
 [Car Crash Analysis](https://github.com/greg-codes/CarCrash_analysis) performs univariate time series analysis on a multi-year car crash dataset.
+
+
+### Physics
+
+Link to [my dissertation](https://github.com/greg-codes/dissertation), titled "Application of Attosecond Techniques to Condensed Matter Systems".
+
+[Gascalc](https://github.com/greg-codes/GasCalc) contains gas flow and phase matching calculations for design gas sources for high harmonic generation.
