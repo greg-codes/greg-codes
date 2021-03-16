@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 Link to [my dissertation](https://github.com/greg-codes/dissertation), titled "Application of Attosecond Techniques to Condensed Matter Systems".
 
 [Gascalc](https://github.com/greg-codes/GasCalc) contains gas flow and phase matching calculations for design gas sources for high harmonic generation.
+
+[CXRO_calc](https://github.com/greg-codes/CXRO_calc/) uses atomic / material databases to calculate physical parameters, XUV transmission through media, Fresnel reflectivity, and aspects of high harmonic generation.
