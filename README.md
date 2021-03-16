@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ### Physics
 
-Link to [my dissertation](https://github.com/greg-codes/dissertation), titled "Application of Attosecond Techniques to Condensed Matter Systems".
+Link to [my PhD dissertation](https://github.com/greg-codes/dissertation), titled "Application of Attosecond Techniques to Condensed Matter Systems".
+
+Link to [my candidacy exam](https://github.com/greg-codes/OpticalClocks), which covered advances in lattice-based optical atomic clocks.
 
 [Gascalc](https://github.com/greg-codes/GasCalc) contains gas flow and phase matching calculations for design gas sources for high harmonic generation.
 
