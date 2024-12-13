@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Useful repos
+
+[env_setup](https://github.com/greg-codes/env_setup) contains useful conda commands for setting up python on a new workstation.
+
 
 ### Data science
 
